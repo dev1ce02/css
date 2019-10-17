@@ -11,6 +11,12 @@ border-bottom: 1px solid black;
 p {
 color: maroon;
 }
-em {
-font-family: serif;  
+blockquote.greentea, p.greentea {
+      color: green;
+}
+blockquote.raspberry, p.raspberry {
+      color: blue;
+}
+blockquote.blueberry, p.blueberry {
+      color: purple;
 }
