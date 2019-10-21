@@ -20,3 +20,21 @@ blockquote.raspberry, p.raspberry {
 blockquote.blueberry, p.blueberry {
       color: purple;
 }
+ body{
+      font-family: Verdana, Geneva,Arial sans-serif;
+ }
+  body {
+        font-size: 15px;
+  }
+  body {
+        color: limegreen
+  }
+  body {
+        font-weight: bold;
+  }
+  body {
+        text-decoration: limegreen;
+  }
+  body {
+        background-color: lightsalmon;
+  }
